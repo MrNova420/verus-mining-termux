@@ -2,9 +2,9 @@
 
 # Update Termux and install required packages
 echo "Updating Termux and installing necessary dependencies..."
-pkg update -y
-pkg upgrade -y
-pkg install -y git wget curl python3 cmake clang build-essential openssl libhwloc
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install -y git wget curl python3 cmake clang build-essential openssl libhwloc
 
 # Remove existing Verus miner directory if it exists
 echo "Cleaning up old files..."
