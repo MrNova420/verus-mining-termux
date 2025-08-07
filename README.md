@@ -1,7 +1,8 @@
 # Verus Mining Program for Termux
 
 An automated Verus Coin mining solution designed for mobile devices using Termux. This program includes features such as auto-setup, auto-start, and GitHub sync for mining stats. 
-in Beta satge could be currulty not working for a short time.
+
+-In Beta satge could be not working for a short time.
 
 ## Features
 - Fully automated setup and configuration
